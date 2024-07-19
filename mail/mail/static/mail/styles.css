@@ -1,0 +1,18 @@
+textarea {
+    min-height: 400px;
+}
+
+.ebox div {
+    background-color: white;
+    border: 1px solid black;
+    border-style: ridge;
+}
+
+.ebox div p {
+    display: inline-block;
+}
+
+.oneEmail div p {
+    color: black;
+}
+
